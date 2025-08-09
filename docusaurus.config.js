@@ -79,7 +79,7 @@ const config = {
             position: 'left', // 导航项的位置
           },
           {
-            to: '/#center-news', // 这里的路径是相对于网站根目录的
+            to: '/blog', // 这里的路径是相对于网站根目录的
             label: '中心新闻', // 导航项的文本
             position: 'left', // 导航项的位置
           },
