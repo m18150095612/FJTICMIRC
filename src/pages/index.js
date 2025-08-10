@@ -41,7 +41,7 @@ function HomepageVideo() {
   return (
     <div className="video-container" style={{width: '100%', height: 'auto', overflow: 'hidden'}}>
       <video autoPlay loop muted style={{width: '100%'}}>
-        <source src="video/promo_video.mp4" type="video/mp4" />
+        <source src="https://fjticmirc-news-img-1373554746.cos.ap-nanjing.myqcloud.com/promo_video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
     </div>
