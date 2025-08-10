@@ -40,7 +40,7 @@ function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <Heading as="h2" id="center-news">中心新闻</Heading>
+        <Heading as="h2" id="center-news">闽台产业协同与管理创新研究中心</Heading>
         <div className="row">
           <div className={clsx('col col--6')}>
             <NewsCarousel />

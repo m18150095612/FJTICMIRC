@@ -75,7 +75,7 @@ const config = {
           },
           {
             label: '队伍结构',
-            href: 'http://gsx.fzfu.com/xygk/szdw.htm',
+            href: 'https://www.fzfu.com/jgxy/xygk/szdw.htm',
             position: 'left', // 导航项的位置
           },
           {
@@ -84,8 +84,9 @@ const config = {
             position: 'left', // 导航项的位置
           },
           {
+            to: '/',
             label: '科研工作', // 导航项的文本
-            href: 'http://gsx.fzfu.com/kxyj.htm',
+            className: 'disabled',
             position: 'left', // 导航项的位置
           },
           {
@@ -126,7 +127,7 @@ const config = {
               },
               {
                 label: '国际商学院-福州外语外贸学院',
-                href: 'http://gsx.fzfu.com/',
+                href: 'https://www.fzfu.com/jgxy/index.htm',
               },
             ],
           },
