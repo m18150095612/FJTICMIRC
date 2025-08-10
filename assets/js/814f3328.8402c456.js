@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4e2d\u5fc3\u9080\u8bf7\u674e\u975e\u6559\u6388\u89e3\u6790\u5f53\u524d\u53f0\u6d77\u5c40\u52bf\u4e0e\u4e24\u5cb8\u653f\u7ecf\u53d1\u5c55","permalink":"/FJTICMIRC/blog/news-2024-01-04-01","unlisted":false}]}')}}]);

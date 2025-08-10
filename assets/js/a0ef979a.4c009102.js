@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2635],{6203:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/FJTICMIRC/blog/tags/greetings","allTagsPath":"/FJTICMIRC/blog/tags","count":1,"unlisted":false}')}}]);
